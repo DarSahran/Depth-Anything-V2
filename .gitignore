@@ -1,1 +1,3 @@
 checkpoints/
+venv/
+demo.py
